@@ -67,7 +67,7 @@ h2 {
     background: transparent;
     border: none;
     outline: none;
-    font-weight: 600;
+    letter-spacing: 1px;
 }
 
 .input-group input:focus~label,
